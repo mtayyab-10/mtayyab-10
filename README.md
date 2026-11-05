@@ -6,20 +6,20 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=059669&center=true&vCenter=true&width=640&height=36&lines=Scalable+web+applications;Autonomous+agents+and+n8n+automations;Founder+of+Devixaweb;Teaching+code+to+a+global+classroom" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=34d399&center=true&vCenter=true&width=640&height=36&lines=Scalable+web+applications;Autonomous+agents+and+n8n+automations;Founder+of+Devixaweb;Teaching+code+to+a+global+classroom" alt="Scalable web applications, autonomous agents, n8n automations, founder of Devixaweb, teaching code" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=047857&center=true&vCenter=true&width=640&height=36&lines=Scalable+web+applications;Autonomous+agents+and+n8n+automations;Founder+of+Devixaweb;Teaching+code+to+a+global+classroom" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=10b981&center=true&vCenter=true&width=640&height=36&lines=Scalable+web+applications;Autonomous+agents+and+n8n+automations;Founder+of+Devixaweb;Teaching+code+to+a+global+classroom" alt="Scalable web applications, autonomous agents, n8n automations, founder of Devixaweb, teaching code" />
 </picture>
 
 <p>
   <a href="https://github.com/mtayyab-10"><img src="https://img.shields.io/badge/GitHub-064e3b?style=flat-square&logo=github&logoColor=34d399" alt="GitHub" /></a>
   <a href="https://mtayyab-10.vercel.app/"><img src="https://img.shields.io/badge/Website-064e3b?style=flat-square&logo=vercel&logoColor=34d399" alt="Website" /></a>
-  <a href="https://linkedin.com/in/muhammadtayyab10"><img src="https://img.shields.io/badge/LinkedIn-064e3b?style=flat-square&logo=linkedin&logoColor=34d399" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/muhammadtayyab10"><img src="https://img.shields.io/badge/LinkedIn-064e3b?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzM0ZDM5OSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:mtayyabams@gmail.com"><img src="https://img.shields.io/badge/Email-064e3b?style=flat-square&logo=gmail&logoColor=34d399" alt="Email" /></a>
 </p>
 
 </div>
 
-## 💻 About
+## 🧑‍💻 About
 
 I build scalable web applications, n8n automations and autonomous agents. Founder of Devixaweb, shipping production-grade software and workflow solutions. Computer science student at FAST-NUCES, class of 2028, and an educator teaching students aged 8 to 12 across Canada, the United States, Pakistan and India. Open-source builder with published research.
 
@@ -40,7 +40,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 <td width="70%" valign="top">Higher Secondary School Certificate, Pre-Engineering. Grade A, First Division<br /><sub>Pre-Engineering studies at Pakistan's premier historic boarding institution (est. 1860). Built a rigorous foundation in advanced mathematics, physics and analytical problem-solving, along with residential leadership and competitive sports.</sub></td>
 </tr>
 <tr>
-<td width="30%" valign="top"><b>Faisalabad Grammar School</b><sub>November 2010 to April 2022</sub></td>
+<td width="30%" valign="top"><b>Faisalabad Grammar School</b><br /><sub>November 2010 to April 2022</sub></td>
 <td width="70%" valign="top">Elementary and junior secondary education<br /><sub>English-medium foundation in mathematics, sciences, language arts and computer literacy.</sub></td>
 </tr>
 </table>
@@ -70,23 +70,9 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 | **Build AI Agents with n8n** | Edureka | Multi-agent systems, vector databases, conversational memory, tool orchestration |
 | **Google AI Professional Certificate** | Google | Generative AI tools, practical deployment, productivity |
 | **n8n 101 Certificate** | n8n | Workflow automation, branching, data mapping, webhooks |
+| **Google AI course series** | Google | Seven courses: AI Fundamentals, Content Creation, App Building, Data Analysis, Writing and Communicating, Research and Insights, Brainstorming and Planning |
 | **Intro to Claude AI** | Scrimba | Claude API integrations, multimodal prompts, error handling |
 | **National AI Hackathon 2026** | atomcamp | Rapid prototyping of AI-driven solutions |
-
-<details>
-<summary>Google AI course series (seven courses)</summary>
-
-<br />
-
-- AI Fundamentals
-- AI for Content Creation
-- AI for App Building
-- AI for Data Analysis
-- AI for Writing and Communicating
-- AI for Research and Insights
-- AI for Brainstorming and Planning
-
-</details>
 
 ## 📚 Publications
 
@@ -144,13 +130,13 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/output/github-snake-dark.svg" width="100%" alt="A snake eating the dots of the contribution graph" />
-  </picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/output/github-snake-dark.svg" width="100%" alt="A snake eating the dots of the contribution graph" />
+</picture>
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:10b981,100:0b0f14" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:064e3b,100:0b0f14" width="100%" alt="" />
 
 </div>
