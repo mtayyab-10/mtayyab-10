@@ -19,7 +19,7 @@
 
 </div>
 
-## 🧑‍💻 About
+## 💻 About
 
 I build scalable web applications, n8n automations and autonomous agents. Founder of Devixaweb, shipping production-grade software and workflow solutions. Computer science student at FAST-NUCES, class of 2028, and an educator teaching students aged 8 to 12 across Canada, the United States, Pakistan and India. Open-source builder with published research.
 
