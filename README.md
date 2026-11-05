@@ -19,20 +19,16 @@
 
 </div>
 
-## About
+## 💻 About
 
 I build scalable web applications, n8n automations and autonomous agents. Founder of Devixaweb, shipping production-grade software and workflow solutions. Computer science student at FAST-NUCES, class of 2028, and an educator teaching students aged 8 to 12 across Canada, the United States, Pakistan and India. Open-source builder with published research.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top"><b>Best Open-Source AI Project</b><br /><sub>HacktoberFest '26</sub></td>
-<td width="25%" align="center" valign="top"><b>Founder</b><br /><sub>Devixaweb, since December 2024</sub></td>
-<td width="25%" align="center" valign="top"><b>Two papers</b><br /><sub>Published on Zenodo, September 2026</sub></td>
-<td width="25%" align="center" valign="top"><b>Educator</b><br /><sub>Global cohorts, ages 8 to 12</sub></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/main/assets/proof-light.svg" />
+  <img src="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/main/assets/proof-dark.svg" width="100%" alt="Best Open-Source AI Project at HacktoberFest '26. Founder of Devixaweb since December 2024. Two papers published on Zenodo, September 2026. Educator of global cohorts aged 8 to 12." />
+</picture>
 
-## Education
+## 🎓 Education
 
 <table width="100%">
 <tr>
@@ -49,7 +45,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 </tr>
 </table>
 
-## Experience
+## 💼 Experience
 
 <table width="100%">
 <tr>
@@ -66,7 +62,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 </tr>
 </table>
 
-## Certificates
+## 🏅 Certificates
 
 | Certificate | Issuer | Focus |
 |---|---|---|
@@ -92,12 +88,12 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 
 </details>
 
-## Publications
+## 📚 Publications
 
 1. **M. Tayyab**, "Comparative Benchmarking of Constraint Satisfaction Heuristics and Genetic Algorithms for Multi-Criteria Timetable Optimization". Zenodo, 5 September 2026. [doi:10.5281/zenodo.22333734](https://doi.org/10.5281/zenodo.22333734)
 2. **M. Tayyab**, W. Hassan and Umaima, "Predicting Systolic Blood Pressure in Cardiovascular Patients: A Comparative Analysis of Multiple Linear Regression and Random Forest". Zenodo, 5 September 2026. [doi:10.5281/zenodo.22545270](https://doi.org/10.5281/zenodo.22545270)
 
-## Projects
+## 🚀 Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -109,7 +105,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 | **[TrueHire AI](https://github.com/mtayyab-10/truehire-ai)** | <!-- edit: add a one-line description --> Add description. | `Add stack` |
 | **[Blood Pressure Estimator](https://github.com/mtayyab-10/blood-pressure-estimator)** | Predicts systolic blood pressure in cardiovascular patients, comparing multiple linear regression and random forest. See the [published paper](https://doi.org/10.5281/zenodo.22545270). | `Regression` `Random forest` |
 
-## Skills
+## 🛠️ Skills
 
 <table width="100%">
 <tr>
@@ -144,7 +140,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 </tr>
 </table>
 
-## Activity
+## 🐍 Activity
 
 <p align="center">
   <picture>
