@@ -140,7 +140,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 </tr>
 </table>
 
-## 🐍 Activity
+## ⚡ Activity
 
 <p align="center">
   <picture>
