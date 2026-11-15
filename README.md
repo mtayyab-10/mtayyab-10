@@ -21,7 +21,7 @@
 
 ## 💻 About
 
-I build scalable web applications, n8n automations and autonomous agents. Founder of Devixaweb, shipping production-grade software and workflow solutions. Computer science student at FAST-NUCES, class of 2028, and an educator teaching students aged 8 to 12 across Canada, the United States, Pakistan and India. Open-source builder with published research.
+I build scalable web applications, n8n automations and autonomous agents. Founder of Devixaweb, shipping production-grade software and workflow solutions. Computer science student at FAST-NUCES, class of 2028, and an educator teaching students across Canada, the United States, Pakistan and India. Open-source builder with published research.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtayyab-10/mtayyab-10/main/assets/proof-light.svg" />
@@ -54,7 +54,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 </tr>
 <tr>
 <td width="30%" valign="top"><b>Junior Coderz</b><br />STEM Trainer, part-time<br /><sub>March 2026 to present · Remote</sub></td>
-<td width="70%" valign="top"><ul><li>Teach Python and logic building to students aged 8 to 12 across Canada, the United States, Pakistan and India.</li><li>Guide hands-on coding projects, track progress and give constructive feedback within a structured curriculum.</li></ul></td>
+<td width="70%" valign="top"><ul><li>Teach Python and logic building to students across Canada, the United States, Pakistan, India, and the Middle East.</li><li>Guide hands-on coding projects, track progress and give constructive feedback within a structured curriculum.</li></ul></td>
 </tr>
 <tr>
 <td width="30%" valign="top"><b>DevWeekends</b><br />Engineering Fellow<br /><sub>June 2026 to July 2026</sub></td>
