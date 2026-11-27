@@ -66,7 +66,7 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 
 | Certificate | Issuer | Focus |
 |---|---|---|
-| **Hacktoberfest 2026 Fest Winner** | Hacktoberfest | Best Open-Source AI Project, awarded for TrueNorth at Hack Day Faisalabad x Himmatkaar |
+| **Hacktoberfest 2026 Fest Winner** | Hacktoberfest | Best Open-Source AI Project, Hack Day Faisalabad x Himmatkaar |
 | **Build AI Agents with n8n** | Edureka | Multi-agent systems, vector databases, conversational memory, tool orchestration |
 | **Google AI Professional Certificate** | Google | Generative AI tools, practical deployment, productivity |
 | **n8n 101 Certificate** | n8n | Workflow automation, branching, data mapping, webhooks |
@@ -84,7 +84,6 @@ I build scalable web applications, n8n automations and autonomous agents. Founde
 | Project | What it does | Stack |
 |---|---|---|
 | **[ChatAlmanac](https://github.com/mtayyab-10/chatalmanac)** | A fully private, browser-based WhatsApp chat analyzer. Deep insights, statistics and user comparisons with zero data leaving your device. | `TypeScript` |
-| **[TrueNorth](https://github.com/mtayyab-10/truenorth)** | Winner of Best Open-Source AI Project at Hacktoberfest Hack Day Faisalabad x Himmatkaar. <!-- edit: add what it does --> | `Add stack` |
 | **[AI EvidenceLens](https://github.com/mtayyab-10/evidencelens)** | Multimodal claim validation and decision brief generator. Open source. | `Python` `Streamlit` `Gemini` |
 | **[Zenclox](https://github.com/mtayyab-10/zenclox-app)** | Installable Pomodoro timer with zero dependencies: progress ring, five dark themes, ambient soundscapes and session analytics. | `JavaScript` `Web Audio` |
 | **[AI Timetable Optimizer](https://github.com/mtayyab-10/AI-Timetable-Optimizer)** | Constraint solver for university course timetables using maintained arc consistency and min-conflicts. Benchmarked against genetic algorithms in a [published paper](https://doi.org/10.5281/zenodo.22333734). | `Python` |
